@@ -1,6 +1,4 @@
-table {border: 1px;}
-
-ul {
+ul, h1, h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -11,3 +9,5 @@ ol {
 img {
     position: relative; 
 }
+
+
